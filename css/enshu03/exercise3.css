@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/*ヘッダーの下線と、文字のセンター寄せ*/
+h1
+{
+	text-align: center;
+	border-bottom: 5px solid gray;	
+}
+
+/* h2の下線を定義 */
+#about
+{
+	border-bottom: 5px solid gray;
+	width: 500px;
+}
+
+
+/*ロゴの設定*/
+ul
+{
+	display: flex;	
+}
+
+/*黒点を消してるところ*/
+li
+{
+	list-style: none;
+	margin-left: 20px;
+}

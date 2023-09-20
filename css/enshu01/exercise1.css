@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.deeppink
+{
+
+  position  : relative;
+  padding   : 1rem 2rem calc(1rem + 1);
+  background: deeppink;
+  color     : floralwhite;
+}
+
+.heading
+{
+	border-bottom: 5px solid rgb(128, 255, 255);
+}
